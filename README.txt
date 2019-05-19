@@ -14,7 +14,7 @@ Usage:
 
 --> As far in colleges and companies, they will bulk mail the content to the employees or students, but takes a lot of time.
 --> To reduce the errors made by humans, this automation helps us to fastly mail the content to the students or employees that is needed to be distributed.
---> In Companies:- 	They use it for any project details sharing, holiday declaration mail, memo mails etc.,.
+--> In Companies:- 	They use it for any project details sharing, holiday declaration mail, memo mails ,Payment Updation etc.,.
 --> In Schools:-	Thay use it for the competition updates, notes updates, holidays, exam schedules, exam timetables etc.,.
 
 Instructions:
@@ -27,6 +27,7 @@ Instructions:
 	
 		i)	Seasonal :	Give the season name to declare the next day as holiday.
 		ii)	Fees Increment	: Declare the increment amount to mail the incremented fees and update it in the database csv file.
+                iii) Payment Update : In this we can Update the fee due to pay.
 
 --> It send mail to the persons present in the database.
 --> This is the working process of BulkMail.
